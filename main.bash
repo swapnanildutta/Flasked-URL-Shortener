@@ -3,6 +3,6 @@
 #*pipenv install
 pipenv shell
 #*pipenv install flask
-export FLASK_APP=hello
-flask run
+#*export FLASK_APP=hello
 export FLASK_ENV=development
+flask run
