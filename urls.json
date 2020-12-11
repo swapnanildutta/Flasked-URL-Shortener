@@ -1,6 +1,1 @@
-{
-  "go": { "url": "https://google.com" },
-  "ya": { "url": "https://yahoo.com" },
-  "cat": { "file": "catB1eM6YN4KG.jpeg" },
-  "queen": { "file": "queen800px-Ada_Lovelace_portrait_1.jpg" }
-}
+{"go": {"url": "https://google.com"}, "ya": {"url": "https://yahoo.com"}}
