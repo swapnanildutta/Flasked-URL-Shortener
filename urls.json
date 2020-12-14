@@ -1,10 +1,1 @@
-{
-  "go": { "url": "https://google.com" },
-  "ya": { "url": "https://yahoo.com" },
-  "tw": { "url": "https://twitter.com" },
-  "home": { "url": "http://127.0.0.1:5001/" },
-  "yoo": { "url": "https://yahoo.com" },
-  "goo": { "url": "https://google.com" },
-  "go2": { "url": "https://google.com" },
-  "go3": { "url": "https://google.com" }
-}
+{"go": {"url": "https://google.com"}, "go2": {"url": "https://google.com"}}
